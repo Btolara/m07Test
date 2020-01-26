@@ -1,4 +1,4 @@
-My #Nice project
+# Nice project
 
 **My page**
 
