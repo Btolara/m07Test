@@ -1,1 +1,6 @@
-Here is the home of my project!
+#Nice project
+
+**My page**
+
+- feature 1
+- feature 2
